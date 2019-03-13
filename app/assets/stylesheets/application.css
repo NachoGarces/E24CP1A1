@@ -14,7 +14,5 @@
  *= require_self
  */
 
-#cuadradito{
-  width: 50%;
-  height: 100px;  
-}
+#cuadradito{height: 50px; background-color: rgb(160, 160, 160)}
+#textito{margin: 10px 0 10px;}
